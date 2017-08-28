@@ -5,9 +5,16 @@
     <title>Students</title>
 </head>
 <body>
-    <p>Levi<p>
-    <p>Destiny<p>
-    <p>Jared<p>
-    <p>Wade<p>
+<ul>
+
+    <li>Levi</li>
+    <li>Destiny</li>
+    <li>Jared</li>
+    <li>Wade</li>
+    <li>Alex</li>
+    <li>Kurtis</li>
+    <li>Zoe</li>
+
+</ul>
 </body>
 </html>
