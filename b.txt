@@ -1,7 +1,13 @@
 .idea/*
-
-
-
-
-
-<p>Wade<p>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Students</title>
+</head>
+<body>
+    <p>Levi<p>
+    <p>Destiny<p>
+    <p>Jared<p>
+    <p>Wade<p>
+</body>
+</html>
