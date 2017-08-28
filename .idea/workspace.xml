@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6ba6ed6-e627-40ac-9b07-fe462373f9b6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.txt" afterPath="$PROJECT_DIR$/b.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +39,7 @@
       <file leaf-file-name="b.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="225">
               <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
@@ -131,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1503669226471</updated>
       <workItem from="1503669227569" duration="2347000" />
-      <workItem from="1503930154525" duration="3658000" />
+      <workItem from="1503930154525" duration="3697000" />
     </task>
     <task id="LOCAL-00001" summary="b.txt file">
       <created>1503930537403</created>
@@ -154,11 +153,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503932596066</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change Format">
+      <created>1503935075639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503935075639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6005000" />
+    <option name="totallyTimeSpent" value="6044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="787" extended-state="0" />
@@ -217,7 +223,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="b.txt file" />
     <MESSAGE value="added new student, html" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new student, html" />
+    <MESSAGE value="Change Format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Format" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -266,7 +273,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="225">
           <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
